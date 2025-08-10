@@ -1,0 +1,15 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: black;
+}
+
+body {
+    opacity: 0;
+    color: white;
+    background-image: url('/img/logo.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto 90vh;
+}
